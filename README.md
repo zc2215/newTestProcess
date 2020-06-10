@@ -9,3 +9,4 @@ Do some change.
 Creating a new branch is quick AND simple.
 Git is a free software
 Solve some bugs.
+Solve some bugs second.
